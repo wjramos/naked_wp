@@ -1,3 +1,6 @@
 [submodule "wp"]
 	path = wp
-	url = git://github.com/WordPress/WordPress.git
+	url = git@github.com:WordPress/WordPress.git
+[submodule "content/themes/some-like-it-neat"]
+	path = content/themes/some-like-it-neat
+	url = git://github.com/digisavvy/some-like-it-neat.git
